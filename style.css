@@ -2,7 +2,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet">);
 
 body{
-  background-color: red;
+  background-color: lavender;
   font-family: 'Open Sans', serif;
   font-size: 17px;
   font-weight: lighter;
@@ -10,7 +10,7 @@ body{
 }
 
 h1, h2, h4{
-  color: pink;
+  color: chocolate;
   line-height: 1.4 ;
   font-family: 'Roboto', serif;
   font-size: 17px;
@@ -28,8 +28,9 @@ a:hover {
 
 img
 {
-  width: 120px;
-  border-radius: 10px;
+  width: 80px;
+  border-radius: 30px;
+  opacity: 0.5;
 }
 .container {
   width: 500px;
@@ -46,7 +47,7 @@ img
 }
 
 .card-white {
-background-color: white;
+background-color: whitesmoke;
 padding: 40px;
 box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
 border-radius: 4px;
